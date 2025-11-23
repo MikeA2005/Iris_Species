@@ -23,3 +23,7 @@ git clone https://github.com/tuusuario/iris-classification.git
 cd iris-classification
 pip install -r requirements.txt
 streamlit run proyect.py
+```
+
+## Deploy
+https://irisspecies-mgx6s9z2zwspevsnhphblm.streamlit.app/
